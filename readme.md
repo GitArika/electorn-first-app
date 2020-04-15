@@ -1,6 +1,6 @@
-## :computer: Sobre
+## :computer: About
 
-Aqui está o resultado desenvolvido seguindo a documentação oficial do Electorn
+Here's the result following the official documentation on Electron website.
 https://www.electronjs.org/docs/tutorial/first-app
 
 ## How to use
